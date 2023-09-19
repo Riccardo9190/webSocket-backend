@@ -4,6 +4,8 @@ API for [WebSocket Front-End](https://github.com/Riccardo9190/webSocket-frontend
 
 The WebSocket protocol has bidirectional communication, permitted after a 'handshake' performed following a client request.
 
+<img src="https://github.com/Riccardo9190/webSocket-backend/blob/master/public/websocket_vs_http.png"/>
+
 ### Technologies Used:
 
 - Node.js
