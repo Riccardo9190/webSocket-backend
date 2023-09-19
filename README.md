@@ -36,4 +36,4 @@ echo "DATABASE_URL=mongodb://localhost:27017/your_database_name" > .env
 echo "FRONTEND_URL=http://localhost:5173" >> .env
 ```
 
-- Run the app with ```npm run dev``` and open the URL ```localhost:5000```
+- Run the app with ```npm run dev``` and open the URL ```localhost:3000```
